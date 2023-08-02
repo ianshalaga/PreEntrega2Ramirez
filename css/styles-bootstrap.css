@@ -280,4 +280,8 @@ strong {
     /* padding-top: 70px; */
     min-height: 91.5vh;
   }
+
+  .min-content {
+    width: min-content;
+  }
 }
